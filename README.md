@@ -50,7 +50,8 @@ NLP-Assessment-2026/
 │   ├── Assignment-1/
 │   ├── Assignment-2/
 │   ├── Assignment-3/
-│   └── Assignment-4/
+│   ├── Assignment-4/
+│   └── Assignment-5/
 │
 ├── Certificates/
 │
@@ -86,6 +87,7 @@ Contains homework assignments and topic-based problem sets:
 - **Assignment-2**
 - **Assignment-3**
 - **Assignment-4**
+- **Assignment-5**
 
 ### 4. Certificates (`Certificates/`)
 Houses course completion certificates, online certifications (e.g., Coursera, NPTEL, Kaggle), and workshop credentials.
